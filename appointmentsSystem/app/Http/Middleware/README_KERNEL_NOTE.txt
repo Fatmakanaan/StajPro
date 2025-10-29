@@ -1,0 +1,1 @@
+// Add 'admin' => \App\Http\Middleware\AdminMiddleware::class to \$routeMiddleware in app/Http/Kernel.php
